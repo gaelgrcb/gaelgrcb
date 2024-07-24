@@ -16,7 +16,11 @@
 
 ###
 
-<h3 align="left">📍Location <p> Jalisco, Mexico </p> </h3> 
+<div class="location-header">
+  <h3 align="left">📍Location</h3>
+  <p>Jalisco, Mexico</p>
+</div>
+
 
 ###
 
