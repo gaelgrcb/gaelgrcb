@@ -1,8 +1,9 @@
 <h1 align="center">hey there 👋</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mi-usuario.mi-repo" alt="Visitor Count">
+  <img src="https://visitor-badge-reloaded.onrender.com/badge?page_id=mi-usuario.mi-repo" alt="Visitor Count">
 </p>
+
 
 
 <div align="center">
