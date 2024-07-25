@@ -79,7 +79,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaelgrcb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
