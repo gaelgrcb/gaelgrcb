@@ -1,7 +1,9 @@
 <h1 align="center">hey there 👋</h1>
-<div align="center">![Visitor Count](https://hits.sh/github.com/mi-usuario/mi-repo.svg?style=for-the-badge)</div>
 
-###
+<p align="center">
+  <img src="https://hits.sh/github.com/mi-usuario/mi-repo.svg?style=for-the-badge" alt="Visitor Count">
+</p>
+
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/3c/2a/ad/3c2aad38e743710b31103fe2a410f734.gif"  />
