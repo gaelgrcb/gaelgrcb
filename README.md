@@ -28,7 +28,10 @@
 
 ###
 
-<p align="left">Hello! I'm Gael, a cybersecurity enthusiast with a great passion for networking, pentesting, backend development and Linux systems administrator. With a background in security and systems optimization, I love exploring the depths of network security and ensuring the robustness of backend infrastructures. I enjoy doing pentesting challenges or working on backend projects.<br><br>⚡Skills<br>- Cybersecurity 🔐<br>-  Pentesting  🥷🏻<br>- Networks 🛜<br>- Sysadmin Linux 🐧<br>- Backend Development ⚙️</p>
+<p align="left">Hello! I'm Gael, a cybersecurity enthusiast with a great passion for networking, pentesting, backend development and Linux systems administrator. With a background in security and systems optimization, I love exploring the depths of network security and ensuring the robustness of backend infrastructures. I enjoy doing pentesting challenges or working on backend projects.<br>
+  
+<h3>⚡Skills</h3>
+<p>Cybersecurity 🔐<br>-  Pentesting  🥷🏻<br>- Networks 🛜<br>- Sysadmin Linux 🐧<br>- Backend Development ⚙️</p>
 
 ###
 
