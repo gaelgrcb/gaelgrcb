@@ -17,25 +17,25 @@
 ###
 
 <div class="location-header">
-  <h3 align="left">📍Location</h3>
+  <h3 align="left">📍 Location</h3>
   <p>Jalisco, Mexico</p>
 </div>
 
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
 <p align="left">Hello! I'm Gael, a cybersecurity enthusiast with a great passion for networking, pentesting, backend development and Linux systems administrator. With a background in security and systems optimization, I love exploring the depths of network security and ensuring the robustness of backend infrastructures. I enjoy doing pentesting challenges or working on backend projects.<br>
   
-<h3>⚡Skills</h3>
-<p>Cybersecurity 🔐<br>-  Pentesting  🥷🏻<br>- Networks 🛜<br>- Sysadmin Linux 🐧<br>- Backend Development ⚙️</p>
+<h3 align="left">⚡ Skills</h3>
+<p>- Cybersecurity 🔐<br>- Pentesting  🥷🏻<br>- Networks 🛜<br>- Sysadmin Linux 🐧<br>- Backend Development ⚙️</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
