@@ -1,7 +1,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/mi-usuario/mi-repo.svg?style=for-the-badge" alt="Visitor Count">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mi-usuario.mi-repo" alt="Visitor Count">
 </p>
 
 
