@@ -33,10 +33,12 @@
 
 ###
 
-<p align="left">Hello! I'm Gael, a web developer with a strong focus on backend development and Linux systems administration. With a background in systems optimization, I love building and maintaining robust backend infrastructures that scale efficiently. I enjoy solving complex problems and continuously improving my development skills through collaborative coding projects and challenges.<br>
+<p align="left">Hello! I'm Gael, an IT Engineer with expertise in web development, software development and Linux systems administration. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures. I excel at tackling complex challenges and enhancing systems to deliver peak performance. Beyond work, I enjoy honing my skills through collaborative coding projects, exploring emerging technologies, and solving real-world technical problems.
+
+<br>
   
 <h3 align="left">⚡ Skills</h3>
-<p>- Backend Development ⚙️<br>- Web Development 🌐<br>- Networks 🛜<br>- Sysadmin Linux 🐧</p>
+<p>- Software Development 💻<br>- Backend Development ⚙️<br>- Web Development 🌐<br>- Networks 🛜<br>- Sysadmin Linux 🐧</p>
 
 ###
 
