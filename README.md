@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/eb1b7f95-d4fb-4219-8c46-147c9ac20aaf"/>
+  <img height="200" src="[https://github.com/user-attachments/assets/eb1b7f95-d4fb-4219-8c46-147c9ac20aaf](https://64.media.tumblr.com/tumblr_m24q6qFMwM1qlms3vo1_500.gif)"/>
 </div>
 
 ###
