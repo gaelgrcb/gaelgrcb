@@ -76,7 +76,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaelgrcb&theme=dark&hide_border=true&exclude_days=Sun,Sat" alt="GitHub Streak" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=gaelgrcb)](https://git.io/streak-stats)
   </a>
 </div>
 
