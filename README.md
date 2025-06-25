@@ -72,15 +72,5 @@
 </div>
 
 ###
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=gaelgrcb)](https://git.io/streak-stats)
-  </a>
-</div>
-
-
-###
 
 
