@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">- Software Development 💻<br>- Backend Development ⚙️<br>- Web Development 🌐<br>- Networks 🛜<br>- Linux 🐧</p>
+<p align="left">- Software Development 💻<br>- Web Development 🌐<br>- Networks 🛜<br>- Linux 🐧</p>
 
 ###
 
