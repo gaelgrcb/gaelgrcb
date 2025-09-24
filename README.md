@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Hello! I'm Gael, an IT Engineer with expertise in web development, software development and Linux systems administration. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures. I excel at tackling complex challenges and enhancing systems to deliver peak performance. Beyond work, I enjoy honing my skills through collaborative coding projects, exploring emerging technologies, and solving real-world technical problems.</p>
+<p align="left">Hello! I'm Gael, an IT Engineer with expertise in web development, software development. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures. I excel at tackling complex challenges and enhancing systems to deliver peak performance. Beyond work, I enjoy honing my skills through collaborative coding projects, exploring emerging technologies, and solving real-world technical problems.</p>
 
 ###
 
