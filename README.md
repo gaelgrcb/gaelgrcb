@@ -1,29 +1,22 @@
 <h1 align="center">hey there 👋</h1>
- 
-<p align="center">
-  <img src="https://hits.sh/github.com/mi-usuario/mi-repo.svg?style=for-the-badge" alt="Visitor Count">
-</p>
 
 <div align="center">
   <img height="200" src="https://64.media.tumblr.com/tumblr_m24q6qFMwM1qlms3vo1_500.gif"/>
 </div>
 
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:gaelgarciabst@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <p align="center"><strong>Social Medias</strong></p>
+
+  <a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a><img width="12" /><a href="mailto:gaelgarciabst@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a><img width="12" /><a href="https://www.instagram.com/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" /></a><img width="12" /><a href="https://www.hackerrank.com/profile/gaelgrcb/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="40" alt="hackerrank logo" /></a>
+  
+  <br><br>
 </div>
 
 ###
 
 <div class="location-header">
   <h3 align="left">📍 Location</h3>
-  <p>Jalisco, Mexico</p>
+  <p>Guadalajara, Jalisco 🇲🇽</p>
 </div>
 
 
@@ -31,48 +24,40 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">Hello! I'm Gael, an IT Engineer with expertise in web development, software development. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures. I excel at tackling complex challenges and enhancing systems to deliver peak performance. Beyond work, I enjoy honing my skills through collaborative coding projects, exploring emerging technologies, and solving real-world technical problems.</p>
+<p align="left">
+Hello! 👋 I'm Gael, an <strong>Information Technology Engineer</strong> with one year of professional experience.<br><br>
+I specialize in full-stack web development, focusing on creating robust and efficient solutions. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures, and I am currently deepening my knowledge in <strong>Cloud technologies</strong>.<br><br>
+I enjoy solving complex challenges and am always exploring new technologies.<br><br>
+<ul>
+    <li>🧠 Passionate about continuous learning and problem-solving.</li>
+    <li>🚀 Actively building complex portfolio projects (like e-commerce and subscription platforms).</li>
+    <li>☁️ Actively exploring <strong>Cloud platforms like AWS and Azure</strong>.</li>
+    <li>🤝 Open to collaborating on innovative projects!</li>
+</ul>
+</p>
 
 ###
 
 <h3 align="left">⚡ Skills</h3>
 
-###
+<ul>
+ <li>- Software Development 💻</li>
+ <li>- Web Development 🌐</li>
+ <li>- Mobile Development 📱</li>
+ <li>- Automation 🤖</li>
+ <li>- Networks 🛜</li>
+</ul>
 
-<p align="left">- Software Development 💻<br>- Web Development 🌐<br>- Networks 🛜<br>- Linux 🐧</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Tech Stack & Tools</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  /> |
+| **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nest logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  /> |
+| **DevOps, Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  /> |
+
 </div>
-<!-- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
--->
-###
-
-
