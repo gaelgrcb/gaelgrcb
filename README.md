@@ -1,7 +1,7 @@
 <h1 align="center">hey there 👋</h1>
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/tumblr_m24q6qFMwM1qlms3vo1_500.gif"/>
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoa3J1c3J1NW45Nnl4bWE5b2tiOXl5bzMzdWtudzZ2bHJpam5tNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif"/>
 </div>
 
 <div align="center">
@@ -12,15 +12,11 @@
   <br><br>
 </div>
 
-###
 
 <div class="location-header">
   <h3 align="left">📍 Location</h3>
   <p>Guadalajara, Jalisco 🇲🇽</p>
 </div>
-
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -34,18 +30,17 @@ I enjoy solving complex challenges and am always exploring new technologies.<br>
     <li>☁️ Actively exploring <strong>Cloud platforms like AWS and Azure</strong>.</li>
     <li>🤝 Open to collaborating on innovative projects!</li>
 </ul>
-</p>
 
-###
+</p>
 
 <h3 align="left">⚡ Skills</h3>
 
 <ul>
- <li>- Software Development 💻</li>
- <li>- Web Development 🌐</li>
- <li>- Mobile Development 📱</li>
- <li>- Automation 🤖</li>
- <li>- Networks 🛜</li>
+   <li>- Software Development 💻</li>
+   <li>- Web Development 🌐</li>
+   <li>- Mobile Development 📱</li>
+   <li>- Automation 🤖</li>
+   <li>- Networks 🛜</li>
 </ul>
 
 <h3 align="left">🛠 Tech Stack & Tools</h3>
