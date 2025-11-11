@@ -3,13 +3,11 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoa3J1c3J1NW45Nnl4bWE5b2tiOXl5bzMzdWtudzZ2bHJpam5tNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif"/>
 </div>
-
 <div align="center">
-  <p align="center"><strong>📸 Social Medias</strong></p>
+  <h3 align="center"><strong>📸 Social Medias</strong></h3>
 
-  <a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a><img width="12" /><a href="mailto:gaelgarciabst@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a><img width="12" /><a href="https://www.instagram.com/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" /></a><img width="12" /><a href="https://www.hackerrank.com/profile/gaelgrcb/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="40" alt="hackerrank logo" /></a>
-  
-  <br><br>
+  <a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="80" alt="linkedin logo" /></a><img width="12" /><a href="mailto:gaelgarciabst@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="80" alt="gmail logo" /></a><img width="12" /><a href="https://www.instagram.com/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="80" alt="instagram logo" /></a><img width="12" /><a href="https://www.hackerrank.com/profile/gaelgrcb/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="48" alt="hackerrank logo"/></a>
+
 </div>
 
 
@@ -22,7 +20,7 @@
 
 <p align="left">
 Hello! 👋 I'm Gael, an <strong>Information Technology Engineer</strong> with one year of professional experience.<br><br>
-I specialize in full-stack web development, focusing on creating robust and efficient solutions. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures, and I am currently deepening my knowledge in <strong>Cloud technologies</strong>.<br><br>
+I specialize in full-stack web development, focusing on creating robust and efficient solutions. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures, and I am currently deepening my knowledge in <strong>Cutting-edge technologies</strong>.<br><br>
 I enjoy solving complex challenges and am always exploring new technologies.<br><br>
 <ul>
     <li>🧠 Passionate about continuous learning and problem-solving.</li>
