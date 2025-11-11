@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p align="center"><strong>Social Medias</strong></p>
+  <p align="center"><strong>📸 Social Medias</strong></p>
 
   <a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a><img width="12" /><a href="mailto:gaelgarciabst@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a><img width="12" /><a href="https://www.instagram.com/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" /></a><img width="12" /><a href="https://www.hackerrank.com/profile/gaelgrcb/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="40" alt="hackerrank logo" /></a>
   
