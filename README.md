@@ -19,7 +19,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-Hello! 👋 I'm Gael, an <strong>Information Technology Engineer</strong> with one year of professional experience.<br><br>
+Hello! 👋 I'm Gael, an <strong>Information Technology Engineer</strong> with one year half of professional experience.<br><br>
 I specialize in full-stack web development, focusing on creating robust and efficient solutions. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures, and I am currently deepening my knowledge in <strong>Cutting-edge technologies</strong>.<br><br>
 I enjoy solving complex challenges and am always exploring new technologies.<br><br>
 <ul>
