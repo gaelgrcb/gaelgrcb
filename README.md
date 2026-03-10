@@ -3,13 +3,17 @@
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoa3J1c3J1NW45Nnl4bWE5b2tiOXl5bzMzdWtudzZ2bHJpam5tNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif"/>
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaelgrcb&theme=shadow-green" alt="github streak" />
+</div>
+
 <div align="center">
   <h3 align="center"><strong>📸 Social Medias</strong></h3>
 
   <a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="80" alt="linkedin logo" /></a><img width="12" /><a href="mailto:gaelgarciabst@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="80" alt="gmail logo" /></a><img width="12" /><a href="https://www.instagram.com/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="80" alt="instagram logo" /></a><img width="12" /><a href="https://www.hackerrank.com/profile/gaelgrcb/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="48" alt="hackerrank logo"/></a>
 
 </div>
-
 
 <div class="location-header">
   <h3 align="left">📍 Location</h3>
@@ -53,4 +57,8 @@ I enjoy solving complex challenges and am always exploring new technologies.<br>
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  /> |
 | **DevOps, Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  /> |
 
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaelgrcb&show_icons=true&theme=shadow-green" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelgrcb&layout=compact&theme=shadow-green" height="150" alt="top langs card" />
 </div>
