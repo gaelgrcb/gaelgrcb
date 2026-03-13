@@ -1,64 +1,57 @@
-<h1 align="center">hey there 👋</h1>
-
 <div align="center">
+  <h1>Hi there, I'm Gael 👋</h1>
+  <h3>Information Technology Engineer | Full-Stack & Backend Developer</h3>
+
+  <div align="center">
+
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhoa3J1c3J1NW45Nnl4bWE5b2tiOXl5bzMzdWtudzZ2bHJpam5tNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaelgrcb&theme=shadow-green" alt="github streak" />
-</div>
-
-<div align="center">
-  <h3 align="center"><strong>📸 Social Medias</strong></h3>
-
-  <a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="80" alt="linkedin logo" /></a><img width="12" /><a href="mailto:gaelgarciabst@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="80" alt="gmail logo" /></a><img width="12" /><a href="https://www.instagram.com/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="80" alt="instagram logo" /></a><img width="12" /><a href="https://www.hackerrank.com/profile/gaelgrcb/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="48" alt="hackerrank logo"/></a>
 
 </div>
 
-<div class="location-header">
-  <h3 align="left">📍 Location</h3>
-  <p>Guadalajara, Jalisco 🇲🇽</p>
+  <p>📍 Guadalajara, Jalisco 🇲🇽</p>
+
+<a href="https://www.linkedin.com/in/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" /></a>&nbsp;&nbsp;
+<a href="mailto:gaelgarciabst@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/gaelgrcb/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/gaelgrcb/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" height="40" alt="hackerrank logo"/></a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<br/>
 
-<p align="left">
-Hello! 👋 I'm Gael, an <strong>Information Technology Engineer</strong> with one year half of professional experience.<br><br>
-I specialize in full-stack web development, focusing on creating robust and efficient solutions. My background in systems optimization drives my passion for designing and maintaining scalable, reliable infrastructures, and I am currently deepening my knowledge in <strong>Cutting-edge technologies</strong>.<br><br>
-I enjoy solving complex challenges and am always exploring new technologies.<br><br>
-<ul>
-    <li>🧠 Passionate about continuous learning and problem-solving.</li>
-    <li>🚀 Actively building complex portfolio projects (like e-commerce and subscription platforms).</li>
-    <li>☁️ Actively exploring <strong>Cloud platforms like AWS and Azure</strong>.</li>
-    <li>🤝 Open to collaborating on innovative projects!</li>
-</ul>
+### 👨‍💻 About Me
 
-</p>
+I am a Software Developer specializing in building robust, scalable solutions. With experience modernizing legacy systems and designing efficient architectures, I focus heavily on backend development while also leveraging modern frontends for complete, high-performance web applications. I enjoy solving complex challenges, optimizing systems, and exploring cutting-edge technologies.
 
-<h3 align="left">⚡ Skills</h3>
+* 🧠 **Current Focus:** Deepening my expertise in robust backend architectures (Java, Spring Boot) and cloud platforms (AWS, Azure).
+* 🚀 **Building:** Complex portfolio projects, including professional financial control applications and inventory management systems.
+* 🛡️ **Interests:** Always eager to learn more about system security, data protection, and cryptography.
+* 🤝 **Collaboration:** Open to innovative projects and open-source contributions.
 
-<ul>
-   <li>- Software Development 💻</li>
-   <li>- Web Development 🌐</li>
-   <li>- Backend Development ⚙️</li>
-   <li>- Automation 🤖</li>
-   <li>- Networks 🛜</li>
-</ul>
+---
 
-<h3 align="left">🛠 Tech Stack & Tools</h3>
+### ⚡ Core Skills
+
+* Software & Web Development
+* Backend Architecture & API Design
+* Database Administration & Optimization
+* Process Automation
+* Networking & Infrastructure
+
+---
+
+### 🛠 Tech Stack & Tools
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"/> <img width="12" />  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/> <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/> <img width="12" /> <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  /> |
-| **Backend & Frameworks** | <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /> <img width="12" />  |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=py" height="40" alt="py logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  /> <img width="12" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  /> |
-| **DevOps, Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  /> |
+<p><strong>Frontend</strong></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" /></a>
 
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaelgrcb&show_icons=true&theme=shadow-green" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelgrcb&layout=compact&theme=shadow-green" height="150" alt="top langs card" />
+<p><strong>Backend & Frameworks</strong></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,laravel,nodejs" /></a>
+
+<p><strong>Languages</strong></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,php,ts,py,bash" /></a>
+
+<p><strong>Databases & DevOps</strong></p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux,docker,aws,jenkins" /></a>
 </div>
