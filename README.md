@@ -44,11 +44,11 @@ I am a Software Developer specializing in building robust, scalable solutions. W
 <div align="center">
 
 <p><strong>Backend & Frameworks</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,laravel,expressjs" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,laravel" /></a>
 
 <p><strong>Languages</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,php,go,ts,py,bash" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,php,go,py,bash" /></a>
 
 <p><strong>Databases & DevOps</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux,docker,aws,jenkins" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux,docker,jenkins" /></a>
 </div>
