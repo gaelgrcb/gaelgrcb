@@ -44,7 +44,7 @@ I am a Software Developer specializing in building robust, scalable solutions. W
 <div align="center">
 
 <p><strong>Backend & Frameworks</strong></p>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,laravel" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,laravel,angular" /></a>
 
 <p><strong>Languages</strong></p>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,php,go,py,bash" /></a>
